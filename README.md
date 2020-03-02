@@ -10,16 +10,13 @@ This model may also help with baseball betting, should I want to get into that a
 Build a Classifier for MLB baseball games.
 
 **The Data.**
-I focuse
+Data was collected from the Sportsradar API.
 
 **The Model & Metrics.**
 To measure the quality of my classifier, I translated 
-The XGBoost Classifier worked the best, providing an Accuracy score of 58% (6)
+The XGBoost Classifier worked the best, providing an Accuracy score of 58%, about 6% more than what a baseball game better would need to break even. If I had used this model to bet on the 2019 Baseball Season, I would have achieved a 33% ROI with a $8600 investment on games that scored high model prediction certainty.
 
 
-
-**Notes.**
-You will notice that to get the data from Sportradar 
 
 
 
